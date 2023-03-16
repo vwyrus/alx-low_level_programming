@@ -1,11 +1,9 @@
 #include <stdio.h>
-
 /**
- * main - this is main function 
+ * main - Entry point
  *
- * Return: 0 when successfull
+ * Return: always 0 (success)
  */
-
 int main(void)
 {
 	printf("with proper grammar, but the outcome is a piece of art,\n");
